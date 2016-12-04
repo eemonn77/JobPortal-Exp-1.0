@@ -1,0 +1,26 @@
+{
+  "name": "job",
+  "version": "1.0.0",
+  "description": "JobPortal experiment",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eemonn77/JobPortal-Exp-1.0.git"
+  },
+  "keywords": [
+    "job"
+  ],
+  "author": "emon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eemonn77/JobPortal-Exp-1.0/issues"
+  },
+  "homepage": "https://github.com/eemonn77/JobPortal-Exp-1.0#readme"
+}
